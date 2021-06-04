@@ -1,7 +1,10 @@
 # E-Commerce Website
-Ecommerce Website is a group project to create an online selling platform
+Ecommerce Website 
+Users can create an account. 
+Once created they can select various items and add them to a shopping cart.
+Afterwards they can proceed to checkout. 
 
-Course: SOEN 287 of Fall 2020
+
 
 # Languages 
 
@@ -9,18 +12,7 @@ Course: SOEN 287 of Fall 2020
 * CSS3
 * JavaScript
 * PHP 
+* SQL
 
-## Team Members
 
-* Jacob Babity
-
-* Arman Jahanpour
-
-* Seaim Khan
-
-* Roger Matadeen
-
-* Antoine Poulin
-
-* Runze Zhu
 
